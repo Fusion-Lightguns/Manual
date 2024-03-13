@@ -1,2 +1,7 @@
-# Manual
-Fusion Light Gun Manual 
+![7_20240313_164521_0006](https://github.com/Fusion-Lightguns/Manual/assets/118452807/e6234557-d4f7-47fd-9392-f3c5e82fc4e6)
+![6_20240313_164521_0005](https://github.com/Fusion-Lightguns/Manual/assets/118452807/7a7a37cf-674a-4a7c-93e5-6967947f68f8)
+![5_20240313_164521_0004](https://github.com/Fusion-Lightguns/Manual/assets/118452807/cbc2c388-9d0d-445f-a98d-0e7a0e559adf)
+![4_20240313_164521_0003](https://github.com/Fusion-Lightguns/Manual/assets/118452807/38221620-c9b2-40cb-9eb9-364ed7930471)
+![3_20240313_164521_0002](https://github.com/Fusion-Lightguns/Manual/assets/118452807/5d4e6c01-74b3-46e0-afdd-642d78452b83)
+![2_20240313_164521_0001](https://github.com/Fusion-Lightguns/Manual/assets/118452807/61e88521-ad93-43da-a31f-f8f132cb4525)
+![1_20240313_164520_0000](https://github.com/Fusion-Lightguns/Manual/assets/118452807/50fe9902-6d21-4ead-816d-1f663723018a)
